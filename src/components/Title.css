@@ -1,0 +1,23 @@
+#title {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.container {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.leftside {
+    color: rgba(255, 255, 255, 0.897);
+    font-family: sans-serif;
+    padding-left: 10%;
+}
+
+.rightside {
+    color: rgba(255, 255, 255, 0.897);
+    font-family: sans-serif;
+}
+

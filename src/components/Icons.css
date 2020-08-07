@@ -1,0 +1,15 @@
+
+.icons {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+#github_icon {
+    padding-right:5%;
+    cursor:pointer;
+}
+
+#email_icon {
+    padding-left:5%;
+    cursor:pointer;
+}

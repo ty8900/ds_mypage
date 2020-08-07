@@ -1,0 +1,18 @@
+.Maintext {
+    border-style: groove;
+}
+
+.what {
+    text-align:center;
+}
+
+.main_container {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    place-items: center;
+    gap:10px;
+    margin-top:20px;
+}
+h4 {
+    text-align: center;
+}
